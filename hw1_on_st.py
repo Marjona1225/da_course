@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from stramlite.db_connection import create_connection
+from db_connection import create_connection
 
 conn = create_connection()
 
