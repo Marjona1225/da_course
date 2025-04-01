@@ -1,0 +1,1 @@
+{"resources":{"Scripts/chernoviikcase.sql":{"default-datasource":"postgres-jdbc-1959274d39f-35554c09b1463163","default-catalog":"postgres","default-schema":"public"},"Scripts/plotly/chinook.sql":{"default-datasource":"sqlite_jdbc-1956d798d75-7e84061c5831fd92"}}}
